@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4eb20ad9009540c40bc67d27085f7621
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CollisionVFX: {instanceID: 0}
+  - DestructionVFX: {fileID: 3768710278866674916, guid: 0f100d4514b767049868ac5f2ad1ca74,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
